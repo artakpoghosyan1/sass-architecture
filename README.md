@@ -12,4 +12,4 @@ For MAC
 - run `sudo gem install sass`
 - run `sass -v`
 
-*To watch scss file changes run* `sass --watch your.scss:into.css`
+*To watch scss file changes run* `sass --watch main.scss:style.css`
